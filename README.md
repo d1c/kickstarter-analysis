@@ -9,12 +9,12 @@ A client recently ran a Kickstarter campaign to raise funds for their theatrical
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Looking at the Outcomes Based on Launch Date chart below, we see that failed campaigns remain relatively flat throughout the year between a range of 31 and 52. However, there is more variation to the month to month trend for successfull campaigns. In January, successful campaigns begin the year at 56 rising to a high for the year in May at 111. Throughout the rest of the year, the number of successful campaigns declines to a low of 37 in December.
+Looking at the Outcomes Based on Launch Date chart below, we see that failed campaigns remain relatively flat throughout the year between a range of 31 and 52. However, there is more variation to the month to month trend for successfull campaigns. In January, successful campaigns begin the year at 56 rising to a high of 111. Through the rest of the year, the number of successful campaigns declines to a low of 37 in December.
 
 ![Launch Date Outcomes Chart](/Resources/Theater_Outcomes_vs_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
-Moving to the Outcomes Based on Goals analysis, rather than looking at a time series of data we split the data into 12 separate buckets. With the exception of the highest and lowest buckets we split the data into $5,000 increments. In the highest bucket we placed any campaign with a goal greater than $50,000 and in the lowest bucket we placed any with a goal of less than $1,000.
+Moving to the Outcomes Based on Goals analysis, rather than looking at a time series of data we placed the data into 12 separate buckets. With the exception of the highest and lowest buckets we placed the data into $5,000 increments. In the highest bucket we placed any campaign with a goal greater than $50,000 and in the lowest bucket we placed any with a goal of less than $1,000.
 
 ![Outcomes vs. Goals Chart](/Resources/Outcomes_vs_Goals.png)
 
