@@ -22,27 +22,24 @@ As you can see in the chart, the trend in this chart is less consistent than the
 
 ### Challenges and Difficulties Encountered
 
-Challenge for the Goals based Outcome - less data at the higher amount goals makes it harder to have confidence in the higher success outcomes in the $35,000 - $45,000 buckets. For comparison, there were only 26 total projects in the four buckets above $35,000 while there were 1,032 total projects in the four buckets lower than $15,000.
+Challenge for the Goals based Outcome - less data at the higher amount goals makes it difficult to have confidence in the higher success outcomes in the $35,000 - $45,000 buckets. For comparison, there were only 26 total projects in the four buckets above $35,000 while there were 1,032 total projects in the four buckets lower than $15,000.
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. Best time of the year to launch a Kickstarter campaign is in the middle half of the year between April and August.
-2. January through March along with September would be good second choices. 
-3. However, October through December should be avoided since the gap between Failure and Success narrows until in December the gap virtually disappears.
+  1. The best time of the year to launch a Kickstarter campaign is in the middle half of the year between April and August.
+  2. January through March along with September would be good second choices. 
+  3. However, October through December should be avoided since the gap between Failure and Success narrows until the gap virtually disappearsin December.
 
 - What can you conclude about the Outcomes based on Goals?
-1. In the theatrical plays subcategory, it would be best to keep the fundraising goal to less than $15,000. From $15,000 going down the success rate increases so lower would be better to increase the liklihood of success.
+  1. In the theatrical plays subcategory, it would be best to keep the fundraising goal to less than $15,000. From $15,000 going down the success rate increases so lower would be better to increase the liklihood of success.
 
 - What are some limitations of this dataset?
-As, stated in the analysis about, confidence in the higher amount ranges for the Outcomes based on Goals chart is not high based on much fewer total projects setting goals higher than $20,000.
-
-Age of the data could be a limitation. The latest date in the dataset is from 2017. More recent trends could be significantly different in 2022 vs five years ago.
-
-Marketing or word of mouth plays a big role in the success or failure of any fundraising effort. With this data, we cannot measure or analyze what efforts the project owners took to increase  awareness of their project.
-
-Rewards are another factor that can motivate donors to give money to support a Kickstarter project. In this dataset, there were no measure of rewards offered.
+  1. As stated in the analysis above, confidence in the higher amount ranges for the Outcomes based on Goals chart is not high based on fewer total projects with a goal higher than $20,000.
+  2. Age of the data could be a limitation. The latest date in the dataset is from 2017. More recent trends could be significantly different in 2022 vs five years ago.
+  3. Marketing or word of mouth awareness plays a big role in the success or failure of any fundraising effort. With this data, we cannot measure or analyze what efforts the project owners took to increase awareness of their project.
+  4. Rewards are another factor that can motivate donors to give money to support a Kickstarter project. In this dataset, there were no measure of rewards offered.
 
 - What are some other possible tables and/or graphs that we could create?
-If data were available, it would be good to see how many visitors viewed each project.
+  1. If data were available, it would be good to see how many visitors viewed each project.
 
 
