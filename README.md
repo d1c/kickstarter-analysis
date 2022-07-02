@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-[Kickstarter](https://www.kickstarter.com/) is a crowdfunding website that allows people with project ideas to raise funds to bring their project to fruition. Without Kickstarter many of these projects would not see the light of day due to the lack of funds to develop the projects. Projects range from self published books and games to theater projects to technology projects.
+[Kickstarter](https://www.kickstarter.com/) is a crowdfunding website that allows people with project ideas to raise funds to bring their project to fruition. Without Kickstarter many of these projects would not see the light of day due to the lack of funds to develop the projects. Projects range from self published books and games to theater projects and technology projects.
 
 ### Purpose
 A client recently ran a Kickstarter campaign to raise funds for their theatrical play "Fever." The client has asked for analysis of Kickstarter data to provide insight into the relationship of a campaigns launch date and funding goals to successful funding. Using Microsoft Excel, data from over 4,000 Kickstarter campaigns is analyzed to provide the client with recommendations.
